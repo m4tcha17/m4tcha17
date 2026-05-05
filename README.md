@@ -1,4 +1,4 @@
-# Good Day Tarnished! I'm James Benedict S. Ang
+# Good Day! I'm James Benedict S. Ang
 
 <div align="center">
   
@@ -79,12 +79,12 @@ func create_awesome_games():
 
 ## Interests
 
-- 🎮 2D/3D Game Development
-- 🎨 Game Design & Mechanics
-- 🤖 AI in Games
-- 🎵 Game Audio & Music
-- 📖 Interactive Storytelling
-- 🕹️ Indie Game Development
+- 2D/3D Game Development
+- Game Design & Mechanics
+- AI in Games
+- Game Audio & Music
+- Interactive Storytelling
+- Indie Game Development
 
 ## Let's Connect!
 
