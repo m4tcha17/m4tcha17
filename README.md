@@ -39,14 +39,6 @@
 ![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 
-## Current Focus
-
-- Building games with **Godot Engine**
-- Deepening my understanding of **Data Structures & Algorithms**
-- Improving my **C programming** skills
-- Experimenting with **game mechanics** and **level design**
-- Exploring **2D game development**
-
 ## Featured Projects
 
 <!-- Add your projects here -->
@@ -55,33 +47,10 @@
 - **Tech Stack:** Godot, GDScript
 - **Features:** Point System, Bird Flapping, Pause Menu
 
-
-## Game Development Journey
-
-```gdscript
-extends Developer
-
-var skills = {
-    "game_engine": "Godot",
-    "languages": ["C", "GDScript"],
-    "passion": "Game Development",
-    "location": "Philippines 🇵🇭"
-}
-
-func _ready():
-    print("Always learning, sometimes creating!")
-    create_awesome_games()
-
-func create_awesome_games():
-    while true:
-        learn()
-        code()
-        build()
-        iterate()
-```
-
 ## Interests
 
+- Web Development
+- UI/UX Design
 - 2D/3D Game Development
 - Game Design & Mechanics
 - AI in Games
@@ -96,12 +65,6 @@ func create_awesome_games():
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/james.ang.33046)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ang.james05)
 
-## Fun Facts
-
-- Favorite game genre: Open World
-- Dream project: Real World Simulation Open World Game
-- Goal: Create games that inspire and entertain
-
 ## Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m4tcha17&theme=react-dark&hide_border=true)](https://github.com/m4tcha17)
@@ -110,10 +73,10 @@ func create_awesome_games():
 
 <div align="center">
   
-  ### 🎮 "The best way to predict the future is to create it" - Game Developer Wisdom
+  ### "The best way to predict the future is to create it"
   
   ![Profile Views](https://komarev.com/ghpvc/?username=m4tcha17&color=blueviolet&style=for-the-badge)
   
-  ⭐ From [m4tcha17](https://github.com/m4tcha17)
+  From [m4tcha17](https://github.com/m4tcha17)
   
 </div>
