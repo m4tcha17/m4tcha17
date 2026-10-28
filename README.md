@@ -22,7 +22,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ### Game Development
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
@@ -40,6 +41,16 @@
 ## Featured Projects
 
 <!-- Add your projects here -->
+### [Leftover](https://github.com/Shironium09/Leftover)
+> An AI-assisted app for deciding what to cook using the ingredients you already have nearby.
+- Tech Stack: React Native, Expo, TypeScript, Expo Router, NativeWind
+- Features: Smart recipe generation, AI cooking assistant, ingredient tracking, modern mobile UI
+
+### [AngBot](https://github.com/devliqht/angbot)
+> A premium AI companion bot for Discord with a web dashboard, powered by Gemini and RAG for contextual answers.
+- **Tech Stack:** Bun, TypeScript, Next.js, React, Prisma, MySQL, Discord
+- **Features:** Custom subagents, document-based context retrieval, server management dashboard, real-time analytics
+
 ### [Flappy Bird Clone](https://github.com/m4tcha17/Flappy-Bird-Clone.git)
 > A remade clone of the game Flapy Bird
 - **Tech Stack:** Godot, GDScript
