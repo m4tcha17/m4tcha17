@@ -62,13 +62,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/james.ang.33046)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ang.james05)
 
-## Activity Graph
----
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m4tcha17&theme=react-dark&hide_border=true)](https://github.com/m4tcha17)
-
----
-
 <div align="center">
   
   ### "The best way to predict the future is to create it"
