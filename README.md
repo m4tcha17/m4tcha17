@@ -50,9 +50,6 @@
 - UI/UX Design
 - 2D/3D Game Development
 - Game Design & Mechanics
-- AI in Games
-- Game Audio & Music
-- Interactive Storytelling
 - Indie Game Development
 
 ## Let's Connect!
