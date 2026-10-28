@@ -9,10 +9,7 @@
 ## About Me
 
 - Computer Science Student from the Philippines
-- Passionate about **Game Development**
-- Primary Engine: **Godot**
-- Languages: **C** | **GDScript**
-- Currently learning and exploring new game mechanics
+- Passionate about **Game Development** and **Web Development**
 - Love creating interactive experiences
 - Based in the Philippines 🇵🇭
 
